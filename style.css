@@ -1,0 +1,79 @@
+body {
+  background-image: url(img/space.png);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#hologram {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 90% 10%;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+  bottom: 25%;
+  border-radius: 1em;
+  background-image: url(img/hologram.png);
+  background-size: cover;
+  background-position: center;
+  padding: 1em;
+  box-shadow: 0 0 1em 0 var(--hologramLightBlue);
+}
+
+#infoColumns {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 100%;
+}
+
+#leftInfoColumn, #rightInfoColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.infoCont {
+  color: var(--hologramLightBlue);
+  font-size: 1.25em;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: .01em .01em .1em var(--white);
+}
+
+.info {
+  font-weight: normal;
+}
+
+#buttonsCont {
+  display: flex;
+  justify-content: space-around;
+}
+
+#back, #forward {
+  border-radius: .1em;
+  background-color: var(--hologramDarkBlue);
+  padding-left: .25em;
+  padding-right: .25em;
+  padding-top: .1em;
+  padding-bottom: .1em;
+  color: var(--hologramLightBlue);
+  font-size: 1.5em;
+  font-weight: bold;
+  transition: all .1s ease 0s;
+}
+
+#back:active {
+  transform: translateX(-.1em);
+}
+
+#forward:active {
+  transform: translateX(.1em);
+}
+
+:root {
+  --hologramLightBlue: #00cfd1;
+  --hologramDarkBlue: #013239;
+}
