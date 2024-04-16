@@ -1,0 +1,4186 @@
+{
+  "Jedi": {
+    "Jedi Order": [
+      {
+        "name": "Awdrysta Pina",
+        "died": {
+          "date": "24,500 BBY",
+          "location": "Irkalla"
+        },
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Old Republic"
+        ]
+      },
+      {
+        "name": "Biel Ductavis",
+        "gender": "male",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          {
+            "organization": "Old Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Odan-Urr",
+        "died": {
+          "date": "3996 BBY",
+          "location": "Ossus"
+        },
+        "species": "Draethos",
+        "gender": "male",
+        "eye color": "blue",
+        "skin color": "gray",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Old Republic"
+        ],
+        "masters": [
+          "Ooroo",
+          "Memit Nadill"
+        ],
+        "apprentices": [
+          "Freedon Nadd",
+          "Nomi Sunrider"
+        ]
+      },
+      {
+        "name": "Nomi Sunrider",
+        "aliases": "Nomi Da-Boda",
+        "species": "Human",
+        "gender": "female",
+        "height": "1.6 meters",
+        "hair color": "auburn",
+        "eye color": "blue-hazel",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Old Republic"
+        ],
+        "masters": [
+          "Thon",
+          "Vodo-Siosk Baas",
+          "Arca Jeth",
+          "Odan-Urr"
+        ],
+        "apprentices": "Vima Sunrider"
+      },
+      {
+        "name": "Zym",
+        "died": {
+          "date": "3653 BBY",
+          "location": "Coruscant"
+        },
+        "species": "Kel Dor",
+        "gender": "male",
+        "eye color": "silver",
+        "skin color": "orange",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Old Republic"
+        ]
+      },
+      {
+        "name": "Satele Shan",
+        "born": {
+          "date": "3699 BBY",
+          "location": "Brentaal IV"
+        },
+        "species": "Human",
+        "gender": "female",
+        "hair color": "gray-brown",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          "Shan family",
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Old Republic",
+          "Yavin Coalition"
+        ],
+        "masters": [
+          "Ngani Zho",
+          "Kao Cen Darach",
+          "Dar'Nala"
+        ],
+        "apprentices": [
+          "Shigar Konshi",
+          "Syl",
+          "Trad"
+        ]
+      },
+      {
+        "name": "Genarra",
+        "gender": "female",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          {
+            "organization": "Old Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fae Coven",
+        "born": {
+          "date": "circa 1040 BBY"
+        },
+        "species": "Jenet",
+        "gender": "female",
+        "hair color": "gray",
+        "eye color": "brown",
+        "skin color": "pink",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Old Republic",
+          "Galactic Republic"
+        ]
+      },
+      {
+        "name": "Yoda",
+        "born": {
+          "date": "896 BBY"
+        },
+        "died": {
+          "date": "4 ABY",
+          "location": "Dagobah"
+        },
+        "gender": "male",
+        "height": ".66 meters",
+        "weight": "17 kilograms",
+        "hair color": "white",
+        "eye color": "brown",
+        "skin color": "green",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Galactic Republic"
+        ],
+        "masters": [
+          "N'Kata Del Gormo",
+          "Qui-Gon Jinn"
+        ],
+        "apprentices": [
+          "Oppo Rancisis",
+          "Dooku",
+          "Ki-Adi-Mundi",
+          "Mace Windu",
+          "Cin Drallig",
+          "Kit Fisto",
+          "Obi-Wan Kenobi",
+          "Ikrit",
+          "Qu Rahn",
+          "Rahm Kota",
+          "Luke Skywalker",
+          "Denin",
+          "Vila"
+        ]
+      }
+    ],
+    "New Jedi Order": [
+      {
+        "name": "Luke Skywalker",
+        "aliases": "Wormie",
+        "born": {
+          "date": "19 BBY",
+          "location": "Polis Massa"
+        },
+        "died": {
+          "date": "11 ABY",
+          "location": "Yavin 4"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.72 meters",
+        "weight": "77 kilograms",
+        "hair color": "blond",
+        "eye color": "blue",
+        "skin color": "fair",
+        "cybernetics": "right hand",
+        "affiliation": [
+          "Skywalker family",
+          "Lars homestead",
+          {
+            "organization": "Alliance to Restore the Republic",
+            "subsidiaries": {
+              "organization": "Alliance Military",
+              "subsidiaries": {
+                "organization": "Alliance Navy",
+                "subsidiaries": [
+                  "Red Squadron",
+                  "Rogue Squadron"
+                ]
+              }
+            }
+          },
+          "Bright Tree Village",
+          "Alliance of Free Planets",
+          {
+            "organization": "New Republic",
+            "subsidiaries": "New Republic Defense Force"
+          },
+          "Dark Empire",
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries": [
+              "Jedi Praxeum",
+              "Jedi High Council"
+            ]
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": {
+              "organization": "Galactic Alliance Defense Force",
+              "subsidiaries": {
+                "organization": "Galactic Alliance Navy",
+                "subsidiaries": [
+                  "Saber Squadron",
+                  "Twin Suns Squadron",
+                  "Blackmoon Squadron",
+                  "Hardpoint Squadron"
+                ]
+              }
+            }
+          },
+          "Jedi Coalition"
+        ],
+        "masters": {
+          "Jedi": [
+            "Obi-Wan Kenobi",
+            "Yoda",
+            "Joruus C'baoth"
+          ],
+          "Sith": "Darth Sidious"
+        },
+        "apprentices": [
+          "Leia Organa Solo",
+          "Mara Jade Skywalker",
+          "Kam Solusar",
+          "Jem Ysanna",
+          "Rayf Ysanna",
+          "Kyle Katarn",
+          "Corran Horn",
+          "Tionne Solusar",
+          "Streen",
+          "Madurrin",
+          "Kirana Ti",
+          "Dorsk 81",
+          "Brakiss",
+          "Gantoris",
+          "Kyp Durron",
+          "Cilghal",
+          "X2",
+          "Keyan Farlander",
+          "Harlan",
+          "Nichos Marr",
+          "Dal Konur",
+          "Alexandra Winger",
+          "Desann",
+          "Havet Storm",
+          "Finn Galfridian",
+          "Kenth Hamner",
+          "Jacen Solo",
+          "Jaina Solo Fel",
+          "Anakin Solo",
+          "Ben Skywalker",
+          "Vestara Khai",
+          "Cade Skywalker"
+        ]
+      },
+      {
+        "name": "Kenth Hamner",
+        "born": {
+          "location": "Corellia"
+        },
+        "died": {
+          "date": "44 ABY",
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "gray",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "New Republic",
+          "Galactic Federation of Free Alliances",
+          "Jedi Coalition"
+        ],
+        "masters": "Luke Skywalker",
+        "apprentices": "Izal Waz"
+      },
+      {
+        "name": "Saba Sebatyne",
+        "born": {
+          "location": "Barab I"
+        },
+        "species": "Barabel",
+        "gender": "female",
+        "eye color": "red",
+        "skin color": "red-brown",
+        "affiliation": [
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries":"Jedi High Council"
+          },
+          "New Republic",
+          "Galactic Federation of Free Alliances",
+          "Jedi Coalition"
+        ],
+        "masters": "Eelysa",
+        "apprentices": [
+          "Tesar Sebatyne",
+          "Drif Lij",
+          "Wonetun",
+          "Bela Hara",
+          "Krasov Hara",
+          "Izal Waz",
+          "Leia Organa Solo"
+        ]
+      },
+      {
+        "name": "Kol Skywalker",
+        "died": {
+          "date": "130 ABY",
+          "location": "Ossus"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "red",
+        "eye color": "green",
+        "skin color": "fair",
+        "affiliation": [
+          "Skywalker family",
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries":"Jedi High Council"
+          },
+          "Galactic Federation of Free Alliances",
+          "Ossus Project"
+        ],
+        "apprentices": [
+          "Wolf Sazen",
+          "Cade Skywalker",
+          "Shado Vao"
+        ]
+      },
+      {
+        "name": "T'ra Saa",
+        "died": {
+          "date": "138 ABY",
+          "location": "Taivas"
+        },
+        "species": "Neti",
+        "gender": "female",
+        "hair color": "brown",
+        "eye color": "yellow-green",
+        "skin color": "yellow",
+        "affiliation": [
+          "Jedi Order",
+          "Galactic Republic",
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Galactic Federation of Free Alliances"
+        ],
+        "apprentices": "Mace Windu"
+      },
+      {
+        "name": "K'Kruhk",
+        "born": {
+          "location": "Toola"
+        },
+        "species": "Whiphid",
+        "gender": "male",
+        "hair color": "gray",
+        "eye color": "yellow",
+        "affiliation": [
+          "Jedi Order",
+          "Galactic Republic",
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Galactic Federation of Free Alliances",
+          "Galactic Federation Triumvirate"
+        ],
+        "masters": "Lilit Twoseas",
+        "apprentices": [
+          "Chase Piru",
+          "Jiro",
+          "Seddwia",
+          "Kennan Taanzer",
+          "Genel",
+          "Onkya",
+          "Nable",
+          "Cade Skywalker"
+        ]
+      }
+    ]
+  },
+  "Sith": {
+    "Old Sith Empire": [
+      {
+        "name": "Ajunta Pall",
+        "died": {
+          "physically": {
+            "date": "circa 6895 BBY"
+          },
+          "spiritually": {
+            "date": "3956 BBY",
+            "location": "Korriban"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          "Jedi Order",
+          "Old Republic",
+          "Jedi Exiles",
+          "Old Sith Empire"
+        ]
+      },
+      {
+        "name": "Darth Andeddu",
+        "aliases": "Immortal God-King of Prakith",
+        "born": {
+          "location": "Prakith"
+        },
+        "died": {
+          "physically": {
+            "location": "Prakith"
+          },
+          "spiritually": {
+            "date": "137 ABY",
+            "location": "Prakith"
+          }
+        },
+        "gender": "male",
+        "eye color": "red",
+        "skin color": "gray",
+        "affiliation": [
+          "Old Sith Empire",
+          "Malevolence"
+        ],
+        "apprentices": [
+          "Freedon Nadd",
+          "Darth Bane",
+          "Set Harth",
+          "Darth Tyranus"
+        ]
+      },
+      {
+        "name": "Tulak Hord",
+        "aliases": [
+          "Lord of Hate",
+          "Master of Gathering Darkness"
+        ],
+        "died": {
+          "date": "circa 5600 BBY"
+        },
+        "gender": "male",
+        "affiliation": "Old Sith Empire",
+        "apprentices": [
+          "Khem Val",
+          "Ortan Cela",
+          "Aloysius Kallig"
+        ]
+      },
+      {
+        "name": "Marka Ragnos",
+        "died": {
+          "physically": {
+            "date": "5000 BBY"
+          },
+          "spiritually": {
+            "date": "14 ABY",
+            "location": "Korriban"
+          }
+        },
+        "species": "Human-Sith hybrid",
+        "gender": "male",
+        "eye color": "black",
+        "skin color": "obsidian",
+        "affiliation": [
+          "Old Sith Empire",
+          "Disciples of Ragnos"
+        ],
+        "apprentices": "Tavion Axmis"
+      },
+      {
+        "name": "Naga Sadow",
+        "born": {
+          "date": "circa 5100 BBY",
+          "location": "Ziost"
+        },
+        "died": {
+          "physically": {
+            "date": "4400 BBY",
+            "location": "Yavin 4"
+          },
+          "spiritually": {
+            "date": "circa 3756 BBY",
+            "location": "Coruscant"
+          }
+        },
+        "species": "Human-Sith hybrid",
+        "gender": "male",
+        "height": "1.88 meters",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "red",
+        "affiliation": "Old Sith Empire",
+        "masters": "Simus",
+        "apprentices": [
+          "Gav Daragon",
+          "Freedon Nadd"
+        ]
+      },
+      {
+        "name": "Ludo Kressh",
+        "aliases": "Kressh the Elder",
+        "born": {
+          "date": "circa 5100 BBY",
+          "location": "Rhelg"
+        },
+        "died": {
+          "date": "5000 BBY",
+          "location": "his flagship over Korriban"
+        },
+        "species": "Human-Sith hybrid",
+        "gender": "male",
+        "height": "1.88 meters",
+        "hair color": "brown",
+        "eye color": "red",
+        "skin color": "red",
+        "affiliation": {
+          "organization": "Old Sith Empire",
+          "subsidiaries": "Ludo Kressh's Sih faction"
+        },
+        "apprentices": [
+          "Elcho Kressh",
+          "Skarok-Nur"
+        ]
+      }
+    ],
+    "True Sith Empire": [
+      {
+        "name": "Sith Emperor",
+        "aliases": [
+          "Tenebrae",
+          "Darth Vitiate",
+          "Valkorion",
+          "Immortal Emperor",
+          "Slayer of Izax"
+        ],
+        "born": {
+          "date": "5113 BBY",
+          "location": "Nathema"
+        },
+        "died": {
+          "physically": [
+            {
+              "date": "3640 BBY",
+              "location": "Voss"
+            },
+            {
+              "date": "3640 BBY",
+              "location": "Dromund Kaas"
+            },
+            {
+              "date": "3636 BBY",
+              "location": "Zakuul"
+            },
+            {
+              "date": "3630 BBY"
+            }
+          ],
+          "spiritually": [
+            {
+              "date": "3630 BBY",
+              "location": "Zakuul"
+            },
+            {
+              "date": "3626 BBY",
+              "location": "Satele Shan's mind"
+            }
+          ]
+        },
+        "species": "Sith Pureblood",
+        "gender": "male",
+        "hair color": "dark red",
+        "eye color": "black",
+        "skin color": "red",
+        "affiliation": [
+          "Old Sith Empire",
+          {
+            "organization": "True Sith Empire",
+            "subsidiaries": [
+              "Dark Council",
+              "Emperor's Hands",
+              "Imperial Royal Guard",
+              "Children of the Emperor",
+              "Krannus's cult"
+            ]
+          },
+          {
+            "organization": "Eternal Empire",
+            "subsidiaries": [
+              "Knights of Zakuul",
+              "Scions of Zakuul"
+            ]
+          },
+          "Eternal Alliance"
+        ],
+        "apprentices": [
+          "Darth Revan",
+          "Darth Malak",
+          "Scourge",
+          "Exal Kressh",
+          "Outlander"
+        ]
+      },
+      {
+        "name": "Darth Marr",
+        "born": {
+          "date": "3702 BBY"
+        },
+        "died": {
+          "date": "3636 BBY",
+          "location": "Zakuul"
+        },
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          {
+            "organization": "True Sith Empire",
+            "subsidiaries": {
+              "organization": "Dark Council",
+              "subsidiaries": [
+                "Sphere of Defense of the Empire",
+                "Sphere of Military Offense",
+                "Sphere of Military Strategy"
+              ]
+            }
+          },
+          "Yavin Coalition"
+        ],
+        "apprentices": "Darth Lachris"
+      },
+      {
+        "name": "Darth Acina",
+        "died": {
+          "date": "3629 BBY",
+          "location": "Iokath"
+        },
+        "species": "Human",
+        "gender": "female",
+        "hair color": "brown",
+        "eye color": "green",
+        "skin color": "fair",
+        "affiliation": {
+          "organization": "True Sith Empire",
+          "subsidiaries": {
+            "organization": "Dark Council",
+            "subsidiaries": "Sphere of Technology"
+          }
+        }
+      },
+      {
+        "name": "Darth Vowrawn",
+        "born": {
+          "date": "3716 BBY"
+        },
+        "species": "Sith Pureblood",
+        "gender": "male",
+        "hair color": "black",
+        "eye color": "red",
+        "skin color": "maroon",
+        "affiliation": {
+          "organization": "True Sith Empire",
+          "subsidiaries": {
+            "organization": "Dark Council",
+            "subsidiaries": {
+              "organization": "Sphere of Civil Administration",
+              "subsidiaries": [
+                "Sphere of Production and Logistics",
+                "Sphere of Laws and Justice"
+              ]
+            }
+          }
+        },
+        "apprentices": [
+          "Darth Shaar",
+          "Qet",
+          "Haresh"
+        ]
+      }
+    ],
+    "Naddists": [
+      {
+        "name": "Freedon Nadd",
+        "died": {
+          "physically": {
+            "date": "circa 4350 BBY",
+            "location": "Onderon"
+          },
+          "spiritually": {
+            "date": "3997 BBY",
+            "location": "Yavin 4"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "eye color": "yellow",
+        "skin color": "pale",
+        "affiliation": [
+          "Jedi Order",
+          "Old Republic",
+          {
+            "organization": "Onderon Royal Family",
+            "subsidiaries": "Onderon Royal Guard"
+          },
+          "Naddists",
+          "Krath"
+        ],
+        "masters": {
+          "Jedi": [
+            "Matta Tremayne",
+            "Odan-Urr"
+          ],
+          "Sith": [
+            "Adas",
+            "Darth Andeddu",
+            "Naga Sadow"
+          ]
+        },
+        "apprentices": [
+          "Ommin",
+          "Amanoa",
+          "Warb Null",
+          "Satal Keto",
+          "Aleema Keto",
+          "Exar Kun",
+          "Darth Bane"
+        ]
+      }
+    ],
+    "Brotherhood of Sith": [
+      {
+        "name": "Exar Kun",
+        "died": {
+          "physically": {
+            "date": "3996 BBY",
+            "location": "Yavin 4"
+          },
+          "spiritually": {
+            "date": "11 ABY",
+            "location": "Yavin 4"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.9 meters",
+        "hair color": "black",
+        "eye color": "gray",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Dantooine Jedi Enclave"
+          },
+          "Old Republic",
+          "Brotherhood of Sith"
+        ],
+        "masters": {
+          "Jedi": "Vodo-Siosk Baas",
+          "Sith": "Freedon Nadd"
+        },
+        "apprentices": [
+          "Ulic Qel-Droma",
+          "Crado",
+          "Oss Wilum",
+          "Zona Luka",
+          "Jorak Uln",
+          "Gantoris",
+          "Kyp Durron"
+        ]
+      },
+      {
+        "name": "Ulic Qel-Droma",
+        "born": {
+          "location": "Alderaan"
+        },
+        "died": {
+          "date": "3986 BBY",
+          "location": "Rhen Var"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.77 meters",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "Jedi Order",
+          "Old Republic",
+          "Brotherhood of Sith"
+        ],
+        "masters": {
+          "Jedi": "Arca Jeth",
+          "Sith": "Exar Kun"
+        },
+        "apprentices": "Vima Sunrider"
+      }
+    ],
+    "Star Forge Empire": [
+      {
+        "name": "Revan",
+        "aliases": [
+          "Revanchist",
+          "Revan the Butcher",
+          "Darth Revan",
+          "Prodigal Knight",
+          "Revan Reborn"
+        ],
+        "born": {
+          "date": "3994 BBY"
+        },
+        "died": {
+          "physically": [
+            {
+              "date": "3642 BBY",
+              "location": "Foundry"
+            },
+            {
+              "date": "3637 BBY",
+              "location": "Yavin 4"
+            }
+          ],
+          "spiritually": {
+            "date": "3626 BBY",
+            "location": "Satele Shan's mind"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Revanchists"
+          },
+          {
+            "organization": "Old Republic",
+            "subsidiaries": [
+              "Republic Mercy Corps",
+              "Republic Military"
+            ]
+          },
+          "True Sith Empire",
+          {
+            "organization": "Star Forge Empire",
+            "subsidiaries": "Trayus Academy"
+          },
+          "Shan family",
+          "Order of Revan"
+        ],
+        "masters": {
+          "Jedi": [
+            "Kreia",
+            "Zhar Lestin",
+            "Dorak",
+            "Arren Kae"
+          ],
+          "Sith": "Sith Emperor"
+        },
+        "apprentices": {
+          "Jedi": [
+            "Meetra Surik",
+            "Scourge"
+          ],
+          "Sith": [
+            "Darth Malak",
+            "Darth Bane"
+          ]
+        }
+      },
+      {
+        "name": "Darth Malak",
+        "aliases": [
+          "Alek",
+          "Alek Squinquargesimus",
+          "Squint",
+          "Malak"
+        ],
+        "born": {
+          "location": "Quelii"
+        },
+        "died": {
+          "date": "3956 BBY",
+          "location": "Star Forge over Lehon"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "2 meters",
+        "hair color": "black",
+        "eye color": "blue",
+        "skin color": "fair",
+        "cybernetics": "jaw",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Revanchists"
+          },
+          {
+            "organization": "Old Republic",
+            "subsidiaries": [
+              "Republic Mercy Corps",
+              "Republic Military"
+            ]
+          },
+          "True Sith Empire",
+          "Star Forge Empire"
+        ],
+        "masters": {
+          "Jedi": [
+            "Zhar Lestin",
+            "Dorak",
+            "Arren Kae"
+          ],
+          "Sith": [
+            "Sith Emperor",
+            "Darth Revan"
+          ]
+        },
+        "apprentices": [
+          "Darth Bandon",
+          "Bastila Shan"
+        ]
+      }
+    ],
+    "Sith Triumvirate": [
+      {
+        "name": "Darth Traya",
+        "aliases": [
+          "Kreia",
+          "Lord of Betrayal"
+        ],
+        "died": {
+          "date": "3951 BBY",
+          "location": "Malachor V"
+        },
+        "species": "Human",
+        "gender": "female",
+        "hair color": "white",
+        "eye color": "white",
+        "skin color": "pale",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Lost Jedi"
+          },
+          "Old Republic",
+          {
+            "organization": "Sith Triumvirate",
+            "subsidiaries": "Trayus Academy"
+          }
+        ],
+        "apprentices": [
+          {
+            "Jedi": [
+              "Revan",
+              "Meetra Surik"
+            ]
+          },
+          {
+            "Sith": [
+              "Darth Nihilus",
+              "Darth Sion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Darth Nihilus",
+        "aliases": "Lord of Hunger",
+        "died": {
+          "date": "3951 BBY",
+          "location": "Ravager over Telos IV"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "black",
+        "affiliation": {
+          "organization": "Sith Triumvirate",
+          "subsidiaries": "Trayus Academy"
+        },
+        "masters": "Darth Traya",
+        "apprentices": "Visas Marr"
+      },
+      {
+        "name": "Darth Sion",
+        "aliases": "Lord of Pain",
+        "died": [
+          {
+            "date": "circa 3996 BBY"
+          },
+          {
+            "date": "circa 3956 BBY"
+          },
+          {
+            "date": "3951 BBY",
+            "location": "Malachor V"
+          }
+        ],
+        "species": "Human",
+        "gender": "male",
+        "eye color": "brown and white",
+        "skin color": "gray",
+        "affiliation": [
+          "Brotherhood of Sith",
+          "Star Forge Empire",
+          {
+            "organization": "Sith Triumvirate",
+            "subsidiaries": "Trayus Academy"
+          }
+        ],
+        "masters": "Darth Traya"
+      }
+    ],
+    "New Empire": [
+      {
+        "name": "Darth Malgus",
+        "aliases": [
+          "Veradun",
+          "Malgus",
+          "Malgus the Betrayer"
+        ],
+        "born": {
+          "date": "3700 BBY",
+          "location": "Dromund Kaas"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "2.13 meters",
+        "eye color": "yellow",
+        "skin color": "white",
+        "cybernetics": "respirator",
+        "affiliation": [
+          {
+            "organization": "True Sith Empire",
+            "subsidiaries": "Imperial Military"
+          },
+          "New Empire"
+        ],
+        "masters": "Darth Vindican",
+        "apprentices": [
+          "Darth Karrid",
+          "Cytharat"
+        ]
+      }
+    ],
+    "New Sith": [
+      {
+        "name": "Darth Ruin",
+        "aliases": "Phanius",
+        "died": {
+          "date": "circa 2000 BBY"
+        },
+        "species": "Umbaran",
+        "gender": "male",
+        "eye color": "yellow",
+        "skin color": "light blue",
+        "affiliation": [
+          "Jedi Order",
+          "Old Republic",
+          "New Sith"
+        ]
+      },
+      {
+        "name": "Dark Underlord",
+        "died": {
+          "date": "circa 1750 BBY",
+          "location": "Malrev IV"
+        },
+        "gender": "male",
+        "affiliation": {
+          "organization": "New Sith",
+          "subsidiaries": "Black Knights"
+        }
+      },
+      {
+        "name": "Darth Rivan",
+        "died": {
+          "date": "1000 BBY",
+          "location": "Ruusan"
+        },
+        "species": "Zelosian",
+        "gender": "male",
+        "eye color": "green",
+        "skin color": "pale",
+        "affiliation": "New Sith",
+        "apprentices": [
+          "Darsin",
+          "Valin Draco"
+        ]
+      },
+      {
+        "name": "Belia Darzu",
+        "died": {
+          "date": "1230 BBY",
+          "location": "Tython"
+        },
+        "species": "Shi'ido",
+        "gender": "female",
+        "affiliation": {
+          "organization": "New Sith",
+          "subsidiaries": "Metanecrons"
+        },
+        "apprentices": "Darth Bane"
+      }
+    ],
+    "Brotherhood of Darkness": [
+      {
+        "name": "Skere Kaan",
+        "aliases": "Dark One",
+        "born": {
+          "date": "circa 1045 BBY"
+        },
+        "died": {
+          "physically": {
+            "date": "1000 BBY",
+            "location": "Ruusan"
+          },
+          "spiritually": {
+            "date": "5 ABY",
+            "location": "Ruusan"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.93 meters",
+        "hair color": "black",
+        "eye color": "blue",
+        "skin color": "tan",
+        "affiliation": [
+          "Jedi Order",
+          "Old Republic",
+          "New Sith",
+          "Brotherhood of Darkness"
+        ],
+        "apprentices": "Vulta Daanat"
+      }
+    ],
+    "Rule of Two": [
+      {
+        "name": "Darth Bane",
+        "aliases": [
+          "Dessel",
+          "Des",
+          "Bane",
+          "Sith'ari",
+          "Sepp Omek"
+        ],
+        "born": {
+          "date": "1028 BBY",
+          "location": "Apatros"
+        },
+        "died": {
+          "date": "980 BBY",
+          "location": "Ambria"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "2 meters",
+        "eye color": "blue",
+        "skin color": "tan",
+        "affiliation": [
+          "Outer Rim Oreworks Company",
+          {
+            "organization": "Brotherhood of Darkness",
+            "subsidiaries": [
+              "Gloom Walkers",
+              "Sith Academy"
+            ]
+          },
+          "Rule of Two"
+        ],
+        "masters": [
+          "Qordis",
+          "Kas'im",
+          "Orilltha",
+          "Shenayag",
+          "Hezzoran",
+          "Borthis",
+          "Githany",
+          "Darth Revan",
+          "Freedon Nadd",
+          "Belia Darzu",
+          "Darth Andeddu"
+        ],
+        "apprentices": [
+          "Darth Zannah",
+          "Darth Cognus"
+        ]
+      },
+      {
+        "name": "Darth Zannah",
+        "aliases": [
+          "Zannah",
+          "Rain",
+          "Rainah",
+          "Allia Omek"
+        ],
+        "born": {
+          "date": "1010 BBY",
+          "location": "Somov Rit"
+        },
+        "species": "Human",
+        "gender": "female",
+        "hair color": "blonde",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": "Army of Light"
+          },
+          "Old Republic",
+          "Rule of Two",
+          "Anti-Republic Liberation Front"
+        ],
+        "masters": {
+          "Jedi": "Torr Snapit",
+          "Sith": "Darth Bane"
+        },
+        "apprentices": [
+          "Hetton",
+          "Set Harth",
+          "Darth Cognus"
+        ]
+      },
+      {
+        "name": "Darth Cognus",
+        "aliases": "Huntress",
+        "species": "Iktotchi",
+        "gender": "female",
+        "eye color": "yellow",
+        "skin color": "red",
+        "affiliation": "Rule of Two",
+        "masters": [
+          "Darth Bane",
+          "Darth Zannah"
+        ],
+        "apprentices": "Darth Millennial"
+      },
+      {
+        "name": "Darth Millennial",
+        "species": "Human mutant",
+        "gender": "male",
+        "hair color": "black and silver",
+        "eye color": "blue",
+        "skin color": "pale",
+        "affiliation": [
+          "Rule of Two",
+          "Dark Force"
+        ],
+        "masters": "Darth Cognus"
+      },
+      {
+        "name": "Darth Vectivus",
+        "died": {
+          "location": "Home"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "dark",
+        "affiliation": [
+          {
+            "organization": "Jonex Mining Corporation",
+            "subsidiaries": "Jonex Mine Eight Eleven B"
+          },
+          "Rule of Two"
+        ],
+        "apprentices": "Lumiya"
+      },
+      {
+        "name": "Darth Ramage",
+        "gender": "male",
+        "affiliation": "Rule of Two"
+      },
+      {
+        "name": "Darth Gravid",
+        "died": {
+          "date": "circa 533 BBY",
+          "location": "Jaguada"
+        },
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "Rule of Two",
+          "Light Sith"
+        ],
+        "apprentices": "Darth Gean"
+      },
+      {
+        "name": "Darth Gean",
+        "species": "Twi'lek",
+        "gender": "female",
+        "cybernetics": [
+          "left side of face",
+          "arm",
+          "shoulder",
+          "left side of chest"
+        ],
+        "affiliation": "Rule of Two",
+        "masters": "Darth Gravid"
+      },
+      {
+        "name": "Darth Tenebrous",
+        "aliases": "Rugess Nome",
+        "born": {
+          "date": "between 247 BBY and 167 BBY"
+        },
+        "died": {
+          "date": "67 BBY",
+          "location": "Bal'demnic"
+        },
+        "species": "Bith",
+        "gender": "male",
+        "eye color": "black",
+        "skin color": "yellow",
+        "cybernetics": "respirator",
+        "affiliation": "Rule of Two",
+        "apprentices": [
+          "Darth Plagueis",
+          "Darth Venamis"
+        ]
+      },
+      {
+        "name": "Darth Plagueis",
+        "aliases": [
+          "Hego Damask II",
+          "Darth Plagueis the Wise"
+        ],
+        "born": {
+          "date": "between 165 BBY and 124 BBY",
+          "location": "Mygeeto"
+        },
+        "died": {
+          "date": "32 BBY",
+          "location": "Coruscant"
+        },
+        "species": "Muun",
+        "gender": "male",
+        "eye color": "yellow",
+        "skin color": "pale",
+        "cybernetics": "respirator",
+        "affiliation": [
+          "Damask clan",
+          {
+            "organization": "InterGalactic Banking Clan",
+            "subsidiaries": "Damask Holdings"
+          },
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": [
+              "Galactic Senate",
+              "Republic Reserve Administration"
+            ]
+          },
+          "Rule of Two",
+          "Hutt Cartel",
+          "Black Sun"
+        ],
+        "masters": "Darth Tenebrous",
+        "apprentices": "Darth Sidious"
+      },
+      {
+        "name": "Darth Venamis",
+        "died": {
+          "date": "42 BBY"
+        },
+        "species": "Bith",
+        "gender": "male",
+        "height": "1.73 meters",
+        "eye color": "black",
+        "affiliation": "Rule of Two",
+        "masters": "Darth Tenebrous",
+        "apprentices": "Naat Lare"
+      },
+      {
+        "name": "Darth Sidious",
+        "aliases": [
+          "Sheev Palpatine",
+          "Palpatine",
+          "Emperor"
+        ],
+        "born": {
+          "date": "82 BBY",
+          "location": "Naboo"
+        },
+        "died": {
+          "physically": [
+            {
+              "date": "4 ABY",
+              "location": "Death Star II over Endor moon"
+            },
+            {
+              "date": "10 ABY",
+              "location": "Byss"
+            },
+            {
+              "date": "10 ABY",
+              "location": "Eclipse over Da Soocha V"
+            },
+            {
+              "date": "11 ABY",
+              "location": "Onderon"
+            }
+          ],
+          "spiritually": {
+            "date": "11 ABY",
+            "location": "Onderon"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.78 meters",
+        "weight": "75 kilograms",
+        "hair color": "white",
+        "eye color": "yellow",
+        "skin color": "white",
+        "affiliation": [
+          {
+            "organization": "Naboo Royal Houses",
+            "subsidiaries": "House Palpatine"
+          },
+          {
+            "organization": "Theed University",
+            "subsidiaries": "Legislative Youth Program"
+          },
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Senate",
+                "subsidiaries": "Office of the Supreme Chancellor"
+              },
+              "Senate Guard",
+              "Naboo Diplomatic Corps"
+            ]
+          },
+          "Rule of Two",
+          {
+            "organization": "Prophets of the Dark Side",
+            "subsidiaries": "Church of the Dark Side"
+          },
+          {
+            "organization": "Confederacy of Independent Systems",
+            "subsidiaries": [
+              "Trade Federation",
+              {
+                "organization": "InterGalactic Banking Clan",
+                "subsidiaries": "Damask Holdings"
+              },
+              "Techno Union",
+              "Commerce Guild",
+              "Corporate Alliance",
+              "Dark Acolytes"
+            ]
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              {
+                "organization": "Imperial Senate",
+                "subsidiaries": "Office of the Emperor"
+              },
+              "Imperial Ruling Council",
+              "Imperial Royal Guard",
+              "Emperor's Hands",
+              "Inquisitorius",
+              "Imperial Coalition"
+            ]
+          },
+          {
+            "organization": "Dark Empire",
+            "subsidiaries": {
+              "organization": "Dark Side Adepts",
+              "subsidiaries": "Dark Side Elite"
+            }
+          }
+        ],
+        "masters": "Darth Plagueis",
+        "apprentices": [
+          "Darth Maul",
+          "Sly Moore",
+          "Vergere",
+          "Darth Tyranus",
+          "Garth Ezzar",
+          "Darth Vader",
+          "Ferus Olin",
+          "Lumiya",
+          "Mara Jade Skywalker",
+          "Cronal",
+          "Arden Lyn",
+          "Sa Cuis",
+          "Jeng Droga",
+          "Jallar Golin",
+          "Roganda Ismaren",
+          "Vess Kogo",
+          "Sarcev Quest",
+          "Sheyvan",
+          "Aralina Silk",
+          "Maarek Stele",
+          "Antinnis Tremayne",
+          "Ennix Devian",
+          "Sedriss QL",
+          "Kam Solusar",
+          "Krdys Mordi",
+          "Kvag Gthull",
+          "Zasm Katth",
+          "Baddon Fass",
+          "Vill Goir",
+          "Xecr Nist",
+          "Tedryn-Sha",
+          "Luke Skywalker"
+        ]
+      },
+      {
+        "name": "Darth Maul",
+        "aliases": "Maul",
+        "born": {
+          "date": "54 BBY",
+          "location": "Dathomir"
+        },
+        "died": {
+          "date": "16 BBY",
+          "location": "Tatooine"
+        },
+        "species": "Dathomirian Zabrak",
+        "gender": "male",
+        "height": "1.75 meters",
+        "weight": "80 kilograms",
+        "eye color": "yellow",
+        "skin color": "red",
+        "cybernetics": "legs",
+        "affiliation": [
+          "Nightbrothers of Dathomir",
+          "Rule of Two",
+          "Trade Federation",
+          "Ohnaka Gang",
+          {
+            "organization": "Shadow Collective",
+            "subsidiaries": [
+              {
+                "organization": "Mandalorians",
+                "subsidiaries": {
+                  "organization": "Death Watch",
+                  "subsidiaries": "Mandalorian supercommandos"
+                }
+              },
+              "Black Sun",
+              "Pyke Syndicate",
+              "Hutt Cartel"
+            ]
+          }
+        ],
+        "masters": {
+          "Sith": "Darth Sidious",
+          "miscellaneous": "Meltch Krakko"
+        },
+        "apprentices": "Savage Opress"
+      },
+      {
+        "name": "Darth Tyranus",
+        "aliases": "Dooku",
+        "born": {
+          "date": "102 BBY",
+          "location": "Serenno"
+        },
+        "died": {
+          "date": "19 BBY",
+          "location": "Invisible Hand over Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.96 meters",
+        "weight": "80 kilograms",
+        "hair color": "white",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "House Dooku",
+          {
+            "organization": "Jedi Order",
+            "subsidiaries": [
+              "Old Guard",
+              "Lost Twenty"
+            ]
+          },
+          "Galactic Republic",
+          "Rule of Two",
+          {
+            "organization": "Confederacy of Independent Systems",
+            "subsidiaries": [
+              "Trade Federation",
+              "InterGalactic Banking Clan",
+              "Techno Union",
+              "Commerce Guild",
+              "Corporate Alliance",
+              "Dark Acolytes"
+            ]
+          }
+        ],
+        "masters": {
+          "Jedi": [
+            "Yoda",
+            "Thame Cerulian"
+          ],
+          "Sith": [
+            "Darth Sidious",
+            "Darth Andeddu"
+          ]
+        },
+        "apprentices": {
+          "Jedi": [
+            "Qui-Gon Jinn",
+            "Komari Vosa",
+            "Keelyvine Reus"
+          ],
+          "Sith": [
+            "Asajj Ventress",
+            "Sora Bulq",
+            "Tol Skorr",
+            "Kadrian Sey",
+            "Quinlan Vos",
+            "Sev'rance Tann",
+            "Saato",
+            "Trenox",
+            "Karoc",
+            "Vinoc",
+            "Kern",
+            "Ror",
+            "Artel Darc",
+            "Savage Opress"
+          ],
+          "miscellaneous": "Grievous"
+        }
+      },
+      {
+        "name": "Anakin Skywalker",
+        "aliases": [
+          "Ani",
+          "Chosen One",
+          "Hero With No Fear",
+          "Lars Quell",
+          "Holt Kazed",
+          "Darth Vader"
+        ],
+        "born": {
+          "date": "41 BBY"
+        },
+        "died": {
+          "date": "4 ABY",
+          "location": "Death Star II over Endor"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.88 meters",
+        "weight": "84 kilograms",
+        "hair color": "sandy-blond",
+        "eye color": "blue",
+        "skin color": "fair",
+        "cybernetics": [
+          "right arm",
+          "respirator",
+          "left arm",
+          "right leg",
+          "left leg"
+        ],
+        "affiliation": [
+          "Skywalker family",
+          "Gardulla the Hutt's criminal empire",
+          "Watto's Shop",
+          {
+            "organization": "Jedi Order",
+            "subsidiaries":"Jedi High Council"
+          },
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": [
+              {
+                "organization": "Grand Army of the Republic",
+                "subsidiaries": [
+                  "501st Legion",
+                  {
+                    "organization": "Republic Starfighter Corps",
+                    "subsidiaries": "Gold Squadron"
+                  }
+                ]
+              },
+              {
+                "organization": "Galactic Senate",
+                "subsidiaries": "Office of the Supreme Chancellor"
+              }
+            ]
+          },
+          "Onderonian resistance",
+          "Rule of Two",
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              {
+                "organization": "Imperial Military",
+                "subsidiaries": {
+                  "organization": "Imperial Navy",
+                  "subsidiaries": {
+                    "organization": "Death Squadron",
+                    "subsidiaries": [
+                      "181st Imperial Fighter Wing",
+                      "Scimitar Squadron",
+                      "Obsidian Squadron",
+                      {
+                        "organization": "Thundering Heard",
+                        "subsidiaries": "Blizzard Force"
+                      }
+                    ]
+                  }
+                }
+              },
+              "Inquisitorius"
+            ]
+          },
+          "Alliance to Restore the Republic"
+        ],
+        "masters": {
+          "Jedi": [
+            "Qui-Gon Jinn",
+            "Obi-Wan Kenobi",
+            "Cin Drallig",
+            "Ki-Adi-Mundi"
+          ],
+          "Sith": "Darth Sidious"
+        },
+        "apprentices": {
+          "Jedi": "Ahsoka Tano",
+          "Sith": [
+            "Galen Marek",
+            "Kharys",
+            "Antinnis Tremayne",
+            "Halmere",
+            "Lanu Pasiq",
+            "Gwellib Ap-Llewff",
+            "Vost Tyne",
+            "Subject 1138",
+            "Hethrir",
+            "Rillao",
+            "Tao",
+            "Lumiya",
+            "Flint"
+          ]
+        }
+      }
+    ],
+    "Lumiya's Sith order": [
+      {
+        "name": "Lumiya",
+        "aliases": [
+          "Shira Elan Colla Brie",
+          "Brisha Syo"
+        ],
+        "born": {
+          "location": "Coruscant"
+        },
+        "died": {
+          "date": "40 ABY",
+          "location": "Terephon"
+        },
+        "species": "Human",
+        "gender": "female",
+        "height": "1.6 meters",
+        "hair color": "red",
+        "eye color": "green",
+        "skin color": "fair",
+        "cybernetics": "various enhancements",
+        "affiliation": [
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              {
+                "organization": "Imperial Military",
+                "subsidiaries": [
+                  {
+                    "organization": "Imperial Army",
+                    "subsidiaries": {
+                      "organization": "Stormtrooper Corps",
+                      "subsidiaries": "Carida Academy"
+                    }
+                  },
+                  "Imperial Intelligence"
+                ]
+              },
+              "Emperor's Hands"
+            ]
+          },
+          {
+            "organization": "Alliance to Restore the Republic",
+            "subsidiaries": {
+              "organization": "Alliance Military",
+              "subsidiaries": {
+                "organization": "Alliance Navy",
+                "subsidiaries": "Rogue Squadron"
+              }
+            }
+          },
+          "Rule of Two",
+          "Lumiya's Sith order",
+          "Nagai",
+          "Herdessan Guild",
+          "Tofs",
+          "Crimson Empire",
+          "Imperial Remnant",
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": {
+              "organization": "Galactic Alliance Defense Force",
+              "subsidiaries": "Galactic Alliance Guard"
+            }
+          }
+        ],
+        "masters": [
+          "Darth Vader",
+          "Darth Sidious",
+          "Vergere",
+          "Darth Vectivus"
+        ],
+        "apprentices": [
+          "Flint",
+          "Carnor Jax",
+          "Darth Caedus"
+        ]
+      },
+      {
+        "name": "Darth Caedus",
+        "aliases": [
+          "Jacen Solo",
+          "Little Lord Vader"
+        ],
+        "born": {
+          "date": "9 ABY",
+          "location": "Coruscant"
+        },
+        "died": {
+          "date": "41 ABY",
+          "location": "Anakin Solo over Shedu Maad"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.79 meters",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "House Solo",
+          "House Organa",
+          "Skywalker family",
+          {
+            "organization": "New Jedi Order", 
+            "subsidiaries": [
+              "Jedi Praxeum",
+              "Myrkr strike team"
+            ]
+          },
+          {
+            "organization": "New Republic",
+            "subsidiaries": "New Republic Defense Force"
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Alliance Defense Force",
+                "subsidiaries": "Galactic Alliance Guard"
+              },
+              {
+                "organization": "Galactic Alliance Senate",
+                "subsidiaries": "Office of the Chief of State"
+              }
+            ]
+          },
+          "Lumiya's Sith order"
+        ],
+        "masters": {
+          "Jedi": "Luke Skywalker",
+          "Sith": [
+            "Vergere",
+            "Lumiya"
+          ],
+          "miscellaneous": [
+            "Tadar'Ro",
+            "Koro Ziil",
+            "Akanah Norand Goss Pell"
+          ]
+        },
+        "apprentices": {
+          "Jedi": "Ben Skywalker",
+          "Sith": "Tahiri Veila"
+        }
+      }
+    ],
+    "One Sith": [
+      {
+        "name": "Darth Krayt",
+        "aliases": [
+          "A'Sharad Hett",
+          "Dragon of the Sith",
+          "Dark Man"
+        ],
+        "born": {
+          "date": "47 BBY",
+          "location": "Tatooine"
+        },
+        "died": {
+          "physically": [
+            {
+              "date": "137 ABY",
+              "location": "Had Abbadon"
+            },
+            {
+              "date": "138 ABY",
+              "location": "Coruscant"
+            }
+          ],
+          "spiritually": {
+            "date": "138 ABY",
+            "location": "Coruscant Prime"
+          }
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.85 meters",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "tan",
+        "cybernetics": [
+          "right arm",
+          "left eye"
+        ],
+        "affiliation": [
+          "Tusken Raiders",
+          "Jedi Order",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": "Grand Army of the Republic"
+          },
+          {
+            "organization": "One Sith",
+            "subsidiaries": "Sith troopers"
+          },
+          "Darth Krayt's galactic empire"
+        ],
+        "masters": {
+          "Jedi": [
+            "Sharad Hett",
+            "Ki-Adi-Mundi",
+            "An'ya Kuro"
+          ],
+          "Sith": [
+            "XoXaan",
+            "Vergere"
+          ]
+        },
+        "apprentices": {
+          "Jedi": "Bhat Jul",
+          "Sith": [
+            "Darth Maladi",
+            "Cade Skywalker"
+          ],
+          "miscellaneous": "KkH'Oar'Rrhr"
+        }
+      },
+      {
+        "name": "Darth Wyyrlok III",
+        "died": {
+          "date": "138 ABY",
+          "location": "Coruscant"
+        },
+        "species": "Chagrian",
+        "gender": "male",
+        "eye color": "yellow",
+        "skin color": "red",
+        "affiliation": [
+          "One Sith",
+          "Darth Krayt's galactic empire"
+        ]
+      }
+    ],
+    "miscellaneous": [
+      {
+        "name": "Darth Desolous",
+        "born": {
+          "date": "circa 3522 BBY"
+        },
+        "died": {
+          "location": "Yaga Minor"
+        },
+        "species": "Pau'an",
+        "gender": "male",
+        "eye color": "black",
+        "skin color": "gray",
+        "affiliation": [
+          "Jedi Order",
+          "Old Republic",
+          "Darth Desolous's Sith army"
+        ]
+      },
+      {
+        "name": "Darth Phobos",
+        "aliases": "Hidden Fear",
+        "born": {
+          "location": "Korriban"
+        },
+        "species": "Theelin",
+        "gender": "female",
+        "hair color": "blue",
+        "eye color": "yellow",
+        "skin color": "green",
+        "affiliation": "Cult of Darth Phobos"
+      }
+    ]
+  },
+  "Republic": {
+    "Old Republic": [
+      {
+        "name": "Fillorean",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Pers'lya",
+        "born": {
+          "location": "Bothawui"
+        },
+        "died": {
+          "date": "11,987 BBY"
+        },
+        "species": "Bothan",
+        "gender": "male",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Contispex I",
+        "born": {
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "Contispex Dynasty",
+          "Pius Dea",
+          "Coruscant Merchant's Guild",
+          {
+            "organization": "Old Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Contispex II",
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "Contispex Dynasty",
+          "Pius Dea",
+          {
+            "organization": "Old Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Contispex XI",
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "Contispex Dynasty",
+          "Pius Dea",
+          {
+            "organization": "Old Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Contispex XIX",
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "Contispex Dynasty",
+          {
+            "organization": "Pius Dea",
+            "subsidiaries": "Faithful"
+          },
+          {
+            "organization": "Old Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Blotus",
+        "aliases": "Blotus the Hutt",
+        "species": "Hutt",
+        "gender": "hermaphrodite",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Nagratha",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Fattum",
+        "gender": "male",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Pultimo",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Vocatara",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": [
+            {
+              "organization": "Republic Military",
+              "subsidiaries": "Rocket-Jumper Elite Advance Unit"
+            },
+            {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sidrona",
+        "died": {
+          "date": "3996 BBY",
+          "location": "Coruscant"
+        },
+        "gender": "male",
+        "eye color": "black",
+        "skin color": "blue-gray",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Tol Cressa",
+        "gender": "male",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Berooken",
+        "died": {
+          "date": "3653 BBY",
+          "location": "Coruscant"
+        },
+        "species": "Mon Calamari",
+        "gender": "male",
+        "eye color": "black",
+        "skin color": "blue",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Paran Am-Ris",
+        "species": "Cerean",
+        "gender": "male",
+        "hair color": "red",
+        "eye color": "black",
+        "skin color": "light pink",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Dorian Janarus",
+        "born": {
+          "location": "Coruscant"
+        },
+        "died": {
+          "date": "3640 BBY",
+          "location": "Founder over Corellia"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "gray",
+        "eye color": "brown", 
+        "skin color": "fair",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Leontyne Saresh",
+        "species": "Twi'lek",
+        "gender": "female",
+        "eye color": "purple",
+        "skin color": "green",
+        "affiliation": [
+          "True Sith Empire",
+          {
+            "organization": "Old Republic",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Senate",
+                "subsidiaries": "Office of the Supreme Chancellor"
+              },
+              "Taris Resettlement Initiative"
+            ]
+          },
+          "Eternal Alliance"
+        ]
+      },
+      {
+        "name": "Jebevel Madon",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Galena Rans",
+        "species": "Mirialan",
+        "gender": "female",
+        "hair color": "black",
+        "skin color": "green",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": [
+            {
+              "organization": "Republic Military",
+              "subsidiaries": {
+                "organization": "Republic Navy",
+                "subsidiaries": "439th Bomber Wing"
+              }
+            },
+            {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Vedij",
+        "affiliation": {
+          "organization": "Old Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      }
+    ],
+    "Galactic Republic": [
+      {
+        "name": "Tarsus Valorum",
+        "born": {
+          "date": "circa 1050 BBY",
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          "House Valorum",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Anwis Eddicus",
+        "affiliation": {
+          "organization": "Galactic Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Signet Mezzileen",
+        "gender": "male",
+        "affiliation": {
+          "organization": "Galactic Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Eixes Valorum",
+        "born": {
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "House Valorum",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Vaila Pecivas",
+        "gender": "female",
+        "affiliation": {
+          "organization": "Galactic Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Thoris Darus",
+        "born": {
+          "location": "Corulag"
+        },
+        "species": "Human",
+        "gender": "male",
+        "affiliation": {
+          "organization": "Galactic Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Frix",
+        "affiliation": {
+          "organization": "Galactic Republic",
+          "subsidiaries": {
+            "organization": "Galactic Senate",
+            "subsidiaries": "Office of the Supreme Chancellor"
+          }
+        }
+      },
+      {
+        "name": "Kalpana",
+        "gender": "male",
+        "affiliation": [
+          "Kalpana family",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": "Office of the Supreme Chancellor"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Finis Valorum",
+        "born": {
+          "date": "circa 82 BBY",
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.7 meters",
+        "hair color": "white",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          "House Valorum",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Senate",
+                "subsidiaries": "Office of the Supreme Chancellor"
+              },
+              "Refugee Relief Movement"
+            ]
+          }
+        ]
+      }
+    ],
+    "Alliance to Restore the Republic": [
+      {
+        "name": "Mon Mothma",
+        "born": {
+          "date": "48 BBY",
+          "location": "Chandrila"
+        },
+        "died": {
+          "date": "24 ABY"
+        },
+        "species": "Human",
+        "gender": "female",
+        "height": "1.5 meters",
+        "hair color": "auburn",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          "Chandrilan Royal House",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": [
+                "Loyalist Committee",
+                "Delegation of 2000"
+              ]
+            }
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Imperial Senate"
+          },
+          "Chandrilan resistance",
+          "Alliance to Restore the Republic",
+          "Alliance of Free Planets",
+          {
+            "organization": "New Republic",
+            "subsidiaries": [
+              "New Republic Provisional Council",
+              {
+                "organization": "New Republic Senate",
+                "subsidiaries": "Office of the Chief of State"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bail Prestor Organa",
+        "aliases": "His Serene Highness, Prince Bail Organa, First Chairman and Viceroy of Alderaan",
+        "born": {
+          "date": "67 BBY",
+          "location": "Alderaan"
+        },
+        "died": {
+          "date": "0 BBY",
+          "location": "Alderaan"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.91 meters",
+        "hair color": "black",
+        "eye color": "brown",
+        "skin color": "tan",
+        "affiliation": [
+          "House Organa",
+          "Alderaan High Court",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": {
+              "organization": "Galactic Senate",
+              "subsidiaries": [
+                "Loyalist Committee",
+                "Security Committee",
+                "Delegation of 2000"
+              ]
+            }
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": {
+              "organization": "Imperial Senate",
+              "subsidiaries": [
+                "Finance Committee",
+                "Appropriations Committee",
+                "Intelligence Oversight Committee",
+                "Military Oversight Committee"
+              ]
+            }
+          },
+          "Alderaanian resistance",
+          "Rahm Kota's militia",
+          "Alliance to Restore the Republic"
+        ]
+      },
+      {
+        "name": "Garm Bel Iblis",
+        "born": {
+          "location": "Corellia"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.75 meters",
+        "hair color": "gray",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": "Galactic Senate"
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Imperial Senate"
+          },
+          "Corellian resistance",
+          "Alliance to Restore the Republic",
+          "Garm Bel Iblis's militia",
+          {
+            "organization": "New Republic",
+            "subsidiaries": {
+              "organization": "New Republic Defense Force",
+              "subsidiaries": {
+                "organization": "New Republic Navy",
+                "subsidiaries": "Fleet Group Two"
+              }
+            }
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": "Galactic Alliance Defense Force"
+          }
+        ]
+      }
+    ],
+    "New Republic": [
+      {
+        "name": "Leia Organa Solo",
+        "aliases": [
+          "Leia Amidala Skywalker",
+          "Leia Organa",
+          "Lady Vader"
+        ],
+        "born": {
+          "date": "19 BBY",
+          "location": "Polis Massa"
+        },
+        "died": [
+          {
+            "date": "0 ABY",
+            "location": "Bedlam"
+          },
+          {
+            "date": "2 ABY",
+            "location": "Mimban"
+          }
+        ],
+        "species": "Human",
+        "gender": "female",
+        "height": "1.5 meters",
+        "weight": "49 kilograms",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "House Organa",
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Imperial Senate"
+          },
+          "Alderaanian resistance",
+          "Alliance to Restore the Republic",
+          "Jabba the Hutt's criminal empire",
+          "Alliance of Free Planets",
+          {
+            "organization": "New Republic",
+            "subsidiaries": [
+              "New Republic Provisional Council",
+              {
+                "organization": "New Republic Senate",
+                "subsidiaries": "Office of the Chief of State"
+              }
+            ]
+          },
+          "House Solo",
+          {
+            "organization": "New Jedi Order",
+            "subsidiaries": "Jedi High Council"
+          },
+          "Galactic Federation of Free Alliances",
+          "Five Worlds",
+          "Confederation",
+          "Jedi Coalition"
+        ],
+        "masters": [
+          "Luke Skywalker",
+          "Vima-Da-Boda",
+          "Saba Sebatyne"
+        ],
+        "apprentices": "Allana Solo"
+      },
+      {
+        "name": "Ponc Gavrisom",
+        "species": "Calibop",
+        "gender": "male",
+        "hair color": "yellow",
+        "eye color": "light blue",
+        "affiliation": {
+          "organization": "New Republic",
+          "subsidiaries": {
+            "organization": "New Republic Senate",
+            "subsidiaries": "Office of the Chief of State"
+          }
+        }
+      },
+      {
+        "name": "Borsk Fey'lya",
+        "born": {
+          "date": "circa 31 BBY",
+          "location": "Kothlis"
+        },
+        "died": {
+          "date": "27 ABY",
+          "location": "Coruscant"
+        },
+        "species": "Bothan",
+        "gender": "male",
+        "height": "1.4 meters",
+        "hair color": "cream",
+        "eye color": "violet",
+        "affiliation": [
+          "Clan Alya",
+          {
+            "organization": "Alliance to Restore the Republic",
+            "subsidiaries": {
+              "organization": "Alliance Intelligence",
+              "subsidiaries": "Bothan Spynet"
+            }
+          },
+          "Alliance of Free Planets",
+          {
+            "organization": "New Republic",
+            "subsidiaries": [
+              "New Republic Provisional Council",
+              {
+                "organization": "New Republic Senate",
+                "subsidiaries": "Office of the Chief of State"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Galactic Federation of Free Alliances": [
+      {
+        "name": "Cal Omas",
+        "born": {
+          "location": "Alderaan"
+        },
+        "died": {
+          "date": "40 ABY",
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "white",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Alliance to Restore the Republic",
+            "subsidiaries": "Alliance Military"
+          },
+          {
+            "organization": "New Republic",
+            "subsidiaries": {
+              "organization": "New Republic Senate",
+              "subsidiaries": "Office of the Chief of State"
+            }
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": "Office of the Chief of State"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cha Niathal",
+        "born": {
+          "location": "Mon Calamari"
+        },
+        "died": {
+          "date": "43 ABY",
+          "location": "Mon Calamari"
+        },
+        "species": "Mon Calamari",
+        "gender": "female",
+        "eye color": "yellow",
+        "skin color": "salmon",
+        "affiliation": [
+          {
+            "organization": "New Republic",
+            "subsidiaries": "New Republic Defense Force"
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": [
+              "Galactic Alliance Defense Force",
+              {
+                "organization": "Galactic Alliance Senate",
+                "subsidiaries": "Office of the Chief of State"
+              },
+              "Alliance-In-Exile"
+            ]
+          },
+          "Jedi Coalition"
+        ]
+      },
+      {
+        "name": "Natasi Daala",
+        "born": {
+          "location": "Irmenu"
+        },
+        "species": "Human",
+        "gender": "female",
+        "height": "1.73 meters",
+        "hair color": "copper",
+        "eye color": "green",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              "Imperial Military",
+              {
+                "organization": "Maw Command",
+                "subsidiaries": "Maw Irregular Fleet"
+              },
+              "Independent Company of Settlers",
+              {
+                "organization": "United Warlord Fleets",
+                "subsidiaries": "Crimson Command"
+              }
+            ]
+          },
+          "Imperial Remnant",
+          "Second Imperium",
+          "Jedi Coalition",
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": "Office of the Chief of State"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Haydnat Treen",
+        "born": {
+          "date": "circa 37 BBY",
+          "location": "Kuat"
+        },
+        "species": "Human",
+        "gender": "female",
+        "affiliation": [
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Imperial Senate"
+          },
+          "Imperial Remnant",
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": {
+                "organization": "Office of the Chief of State",
+                "subsidiaries": "Galactic Alliance Triumvirate"
+              }
+            }
+          },
+          "Lecersen conspiracy"
+        ]
+      },
+      {
+        "name": "Merratt Jaxton",
+        "died": {
+          "date": "44 ABY",
+          "location": "Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "gray",
+        "eye color": "dark",
+        "affiliation": [
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Alliance Defense Force",
+                "subsidiaries": {
+                  "organization": "Galactic Alliance Navy",
+                  "subsidiaries": "Galactic Alliance Starfighter Command"
+                }
+              },
+              {
+                "organization": "Galactic Alliance Senate",
+                "subsidiaries": {
+                  "organization": "Office of the Chief of State",
+                  "subsidiaries": "Galactic Alliance Triumvirate"
+                }
+              }
+            ]
+          },
+          "Lecersen conspiracy"
+        ]
+      },
+      {
+        "name": "Wynn Dorvan",
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": {
+          "organization": "Galactic Federation of Free Alliances",
+          "subsidiaries": {
+            "organization": "Galactic Alliance Senate",
+            "subsidiaries": {
+              "organization": "Office of the Chief of State",
+              "subsidiaries": "Galactic Alliance Triumvirate"
+            }
+          }
+        }
+      },
+      {
+        "name": "Padnel Ovin",
+        "born": {
+          "location": "Klatooine"
+        },
+        "died": {
+          "date": "44 ABY",
+          "location": "Coruscant"
+        },
+        "species": "Klatooinian",
+        "gender": "male",
+        "skin color": "olive-green",
+        "affiliation": [
+          "Sapience Defense Front",
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Alliance Intelligence",
+                "subsidiaries": "Club Bwua'tu"
+              },
+              {
+                "organization": "Galactic Alliance Senate",
+                "subsidiaries": "Office of the Chief of State"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Abeloth",
+        "aliases": [
+          "Servant",
+          "Mother",
+          "Bringer of Darkness",
+          "Beloved Queen of the Stars"
+        ],
+        "born": {
+          "date": "100,086 BBY"
+        },
+        "died": {
+          "physically": [
+            {
+              "date": "44 ABY",
+              "location": "Pydyr"
+            },
+            {
+              "date": "44 ABY",
+              "location": "Pydyr"
+            },
+            {
+              "date": "44 ABY",
+              "location": "Coruscant"
+            },
+            {
+              "date": "44 ABY",
+              "location": "Hagamoor 3"
+            },
+            {
+              "date": "44",
+              "location": "Abeloth's planet"
+            }
+          ],
+          "spiritually": [
+            {
+              "date": "44 ABY",
+              "location": "Coruscant"
+            },
+            {
+              "date": "44 ABY",
+              "location": "Realm Beyond the Shadows"
+            }
+          ]
+        },
+        "gender": "female",
+        "affiliation": [
+          {
+            "organization": "Celestials",
+            "subsidiaries": "Ones"
+          },
+          {
+            "organization": "Lost Tribe of the Sith",
+            "subsidiaries": "Circle of Lords"
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": "Office of the Chief of State"
+            }
+          },
+          "Imperial Remnant"
+        ]
+      },
+      {
+        "name": "Bail Antilles",
+        "died": {
+          "date": "between 130 ABY and 137 ABY"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": {
+          "organization": "Galactic Federation of Free Alliances",
+          "subsidiaries": [
+            {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": {
+                "organization": "Office of the Chief of State",
+                "subsidiaries": "Galactic Alliance Triumvirate"
+              }
+            },
+            "Galactic Alliance Remnant"
+          ]
+        }
+      },
+      {
+        "name": "Gial Gahan",
+        "born": {
+          "location": "Mon Calamari"
+        },
+        "died": {
+          "date": "137 ABY",
+          "location": "Mon Calamari"
+        },
+        "species": "Mon Calamari",
+        "gender": "male",
+        "eye color": "brown",
+        "skin color": "orange",
+        "affiliation": {
+          "organization": "Galactic Federation of Free Alliances",
+          "subsidiaries": [
+            {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": {
+                "organization": "Office of the Chief of State",
+                "subsidiaries": "Galactic Alliance Triumvirate"
+              }
+            },
+            "Galactic Alliance Remnant"
+          ]
+        }
+      },
+      {
+        "name": "Nu Toreena",
+        "species": "Ithorian",
+        "gender": "female",
+        "eye color": "gold",
+        "skin color": "tan",
+        "affiliation": {
+          "organization": "Galactic Federation of Free Alliances",
+          "subsidiaries": [
+            {
+              "organization": "Galactic Alliance Senate",
+              "subsidiaries": {
+                "organization": "Office of the Chief of State",
+                "subsidiaries": "Galactic Alliance Triumvirate"
+              }
+            },
+            "Galactic Alliance Remnant"
+          ]
+        }
+      },
+      {
+        "name": "Gar Stazi",
+        "species": "Duros",
+        "gender": "male",
+        "eye color": "orange",
+        "skin color": "blue",
+        "affiliation": [
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": [
+              {
+                "organization": "Galactic Alliance Defense Force",
+                "subsidiaries": {
+                  "organization": "Galactic Alliance Navy",
+                  "subsidiaries": "Galactic Alliance Core Fleet"
+                }
+              },
+              "Galactic Alliance Remnant"
+            ]
+          },
+          "Galactic Federation Triumvirate"
+        ]
+      }
+    ]
+  },
+  "Empire": {
+    "Galactic Empire": [
+      {
+        "name": "Sate Pestage",
+        "born": {
+          "date": "circa 82 BBY",
+          "location": "Ciutric IV"
+        },
+        "died": [
+          {
+            "date": "5 ABY",
+            "location": "Ciutric IV"
+          },
+          {
+            "date": "11 ABY",
+            "location": "Byss"
+          }
+        ],
+        "species": "Human",
+        "gender": "male",
+        "height": "1.75 meters",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "Pestage family",
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": "Galactic Senate"
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              "Imperial Senate",
+              "Imperial Ruling Council",
+              "Imperial Intelligence",
+              "Ciutric Hegemony",
+              "Imperial Coalition"
+            ]
+          },
+          {
+            "organization": "Prophets of the Dark Side",
+            "subsidiaries": "Church of the Dark Side"
+          },
+          "Dark Empire"
+        ]
+      },
+      {
+        "name": "Paltr Carvin",
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": {
+          "organization": "Galactic Empire",
+          "subsidiaries": [
+            "Imperial Military",
+            "Imperial Ruling Council"
+          ]
+        }
+      },
+      {
+        "name": "Ysanne Isard",
+        "born": {
+          "date": "circa 30 BBY",
+          "location": "Coruscant"
+        },
+        "died": {
+          "date": "9 ABY",
+          "location": "Lusankya over Bilbringi VII"
+        },
+        "species": "Human",
+        "gender": "female",
+        "height": "1.8 meters",
+        "hair color": "black and white",
+        "eye color": "blue and red",
+        "skin color": "fair",
+        "affiliation": [
+          "Isard family",
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              "Imperial Intelligence",
+              "Imperial Ruling Council"
+            ]
+          },
+          "Xucphra Corporation"
+        ]
+      },
+      {
+        "name": "Rajah Ubooki",
+        "aliases": [
+          "Kadann",
+          "false Kadann"
+        ],
+        "died": {
+          "date": "5 ABY",
+          "location": "Scardia"
+        },
+        "species": "Bimm",
+        "gender": "male",
+        "hair color": "dark",
+        "eye color": "dark",
+        "affiliation": [
+          "Ubooki brothers",
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Imperial Intelligence"
+          },
+          {
+            "organization": "Prophets of the Dark Side",
+            "subsidiaries": "Church of the Dark Side"
+          }
+        ]
+      },
+      {
+        "name": "Trioculus",
+        "born": {
+          "location": "Kessel"
+        },
+        "died": {
+          "date": "5 ABY",
+          "location": "Moffship"
+        },
+        "species": "Human mutant",
+        "gender": "male",
+        "hair color": "black",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": {
+          "organization": "Galactic Empire",
+          "subsidiaries": "Central Committee of Grand Moffs"
+        }
+      },
+      {
+        "name": "Thrawn",
+        "aliases": [
+          "Mitth'raw'nuruodo",
+          "Mitthrawdo"
+        ],
+        "born": {
+          "location": "Csilla"
+        },
+        "died": {
+          "date": "9 ABY",
+          "location": "Chimera over Bilbringi VII"
+        },
+        "species": "Chiss",
+        "gender": "male",
+        "height": "1.8 meters",
+        "weight": "83 kilograms",
+        "hair color": "blue-black",
+        "eye color": "red",
+        "skin color": "blue",
+        "affiliation": [
+          {
+            "organization": "Eighth Ruling Family",
+            "subsidiaries": "Thrawn's household phalanx"
+          },
+          {
+            "organization": "Chiss Ascendancy",
+            "subsidiaries": {
+              "organization": "Chiss Expansionary Defense Force",
+              "subsidiaries": "Picket Force Two"
+            }
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              {
+                "organization": "Imperial Military",
+                "subsidiaries": {
+                  "organization": "Imperial Navy",
+                  "subsidiaries": "Task Force Admonitor"
+                }
+              },
+              "Imperial Intelligence",
+              {
+                "organization": "Thrawn's confederation",
+                "subsidiaries": "Thrawn's fleet"
+              }
+            ]
+          },
+          "Order of the Canted Circle",
+          "Empire of the Hand"
+        ]
+      }
+    ],
+    "Crimson Empire": [
+      {
+        "name": "Carnor Jax",
+        "died": {
+          "date": "11 ABY",
+          "location": "Yinchorr"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "brown",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Imperial Royal Guard"
+          },
+          "Lumiya's Sith order",
+          "Dark Empire",
+          {
+            "organization": "Crimson Empire",
+            "subsidiaries": "Imperial Ruling Council"
+          }
+        ],
+        "masters": [
+          "Lumiya",
+          "Sarcev Quest"
+        ]
+      },
+      {
+        "name": "Burr Nolyds",
+        "died": {
+          "date": "11 ABY",
+          "location": "Ord Cantrell"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "white",
+        "eye color": "green",
+        "skin color": "fair",
+        "affiliation": [
+          "Galactic Empire",
+          {
+            "organization": "Crimson Empire",
+            "subsidiaries": "Imperial Ruling Council"
+          }
+        ]
+      },
+      {
+        "name": "Xandel Carivus",
+        "born": {
+          "location": "Ord Cantrell"
+        },
+        "died": {
+          "date": "11 ABY",
+          "location": "Ord Cantrell"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color": "black",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "Galactic Empire",
+          {
+            "organization": "Crimson Empire",
+            "subsidiaries": "Imperial Ruling Council"
+          }
+        ]
+      }
+    ],
+    "Empire Reborn": [
+      {
+        "name": "Hethrir",
+        "born": {
+          "location": "Firrerre"
+        },
+        "died": {
+          "date": "14 ABY",
+          "location": "Crseih Station over Pakuuni"
+        },
+        "species": "Firrerreo",
+        "gender": "male",
+        "height": "1.78 meters",
+        "hair color": "gold-copper",
+        "eye color": "black",
+        "skin color": "pale",
+        "affiliation": [
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": "Dark Side Adepts"
+          },
+          {
+            "organization": "Empire Reborn",
+            "subsidiaries": "Empire Youth"
+          }
+        ],
+        "masters": "Darth Vader",
+        "apprentices": "Desann"
+      }
+    ],
+    "Imperial Remnant": [
+      {
+        "name": "Gilad Pellaeon",
+        "aliases": "Gil",
+        "born": {
+          "date": "51 BBY",
+          "location": "Corellia"
+        },
+        "died": {
+          "date": "41 ABY",
+          "location": "Bloodfin over Fondor"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "1.7 meters",
+        "hair color": "white",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Galactic Republic",
+            "subsidiaries": [
+              "Republic Judicial Force",
+              "Grand Army of the Republic"
+            ]
+          },
+          {
+            "organization": "Galactic Empire",
+            "subsidiaries": [
+              "Imperial Military",
+              {
+                "organization": "Thrawn's confederation",
+                "subsidiaries": "Thrawn's fleet"
+              },
+              "Imperial Coalition",
+              "Federated Teradoc Union",
+              {
+                "organization": "United Warlord Fleets",
+                "subsidiaries": "Crimson Command"
+              }
+            ]
+          },
+          "Dark Empire",
+          {
+            "organization": "Imperial Remnant",
+            "subsidiaries": "Council of Moffs"
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": "Galactic Alliance Defense Force"
+          }
+        ]
+      },
+      {
+        "name": "Drikl Lecersen",
+        "species": "Human",
+        "gender": "male",
+        "hair color": "gray",
+        "affiliation": [
+          {
+            "organization": "Imperial Remnant",
+            "subsidiaries": "Council of Moffs"
+          },
+          "Galactic Federation of Free Alliances",
+          "Lecersen conspiracy"
+        ]
+      },
+      {
+        "name": "Vitor Reige",
+        "species": "Human",
+        "gender": "male",
+        "hair color": "black",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          {
+            "organization": "Imperial Remnant",
+            "subsidiaries": "Imperial Military"
+          },
+          "Jedi Coalition"
+        ]
+      }
+    ],
+    "Fel Empire": [
+      {
+        "name": "Jagged Fel",
+        "aliases": [
+          "Jag",
+          "Fel I"
+        ],
+        "born": {
+          "date": "7 ABY",
+          "location": "Nirauan"
+        },
+        "species": "Human",
+        "gender": "male",
+        "height": "between 1.6 meters and 1.79 meters",
+        "hair color": "black and white",
+        "eye color": "light green",
+        "skin color": "fair",
+        "affiliation": [
+          "Fel Dynasty",
+          "Empire of the Hand",
+          {
+            "organization": "New Republic",
+            "subsidiaries": "New Republic Defense Force"
+          },
+          {
+            "organization": "Galactic Federation of Free Alliances",
+            "subsidiaries": "Galactic Alliance Defense Force"
+          },
+          {
+            "organization": "Chiss Ascendancy",
+            "subsidiaries": "Chiss Expansionary Defense Force"
+          },
+          {
+            "organization": "Jedi Coalition",
+            "subsidiaries": "Alema Rar task force"
+          },
+          {
+            "organization": "Imperial Remnant",
+            "subsidiaries": [
+              "Imperial Military",
+              "Council of Moffs"
+            ]
+          },
+          "Darkmeld",
+          {
+            "organization": "Fel Empire",
+            "subsidiaries": "Imperial Knights"
+          }
+        ]
+      },
+      {
+        "name": "Fel II",
+        "species": "Human",
+        "gender": "male",
+        "affiliation": [
+          "Fel Dynasty",
+          {
+            "organization": "Fel Empire",
+            "subsidiaries": "Imperial Knights"
+          }
+        ]
+      },
+      {
+        "name": "Roan Fel",
+        "aliases": "Fel III",
+        "died": {
+          "date": "138 ABY",
+          "location": "Jagged Fel over Coruscant"
+        },
+        "species": "Human",
+        "gender": "male",
+        "hair color":"black and white",
+        "eye color": "blue",
+        "skin color": "fair",
+        "affiliation": [
+          "Fel Dynasty",
+          {
+            "organization": "Fel Empire",
+            "subsidiaries": [
+              "Imperial Knights",
+              "Empire-In-Exile"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marasiah Fel",
+        "aliases": "Sia",
+        "species": "Human",
+        "gender": "female",
+        "hair color": "brown and white",
+        "eye color": "brown",
+        "skin color": "fair",
+        "affiliation": [
+          "Fel Dynasty",
+          {
+            "organization": "Fel Empire",
+            "subsidiaries": [
+              "Imperial Knights",
+              "Empire-In-Exile"
+            ]
+          },
+          "Galactic Federation Triumvirate"
+        ],
+        "masters": "Elke Vetter"
+      }
+    ]
+  },
+  "Mandalorian": [
+    {
+      "name": "Mandalore the First",
+      "aliases": "Mandalore",
+      "species": "Taung",
+      "gender": "male",
+      "affiliation": "Mandalorians"
+    },
+    {
+      "name": "Mandalore the Conqueror",
+      "affiliation": {
+        "organization": "Mandalorians",
+        "subsidiaries": "Mandalorian Crusaders"
+      }
+    },
+    {
+      "name": "Mandalore the Indomitable",
+      "died": {
+        "date": "3996 BBY",
+        "location": "Dxun"
+      },
+      "species": "Taung",
+      "gender": "male",
+      "affiliation": [
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": "Mandalorian Crusaders"
+        },
+        "Brotherhood of Sith"
+      ]
+    },
+    {
+      "name": "Mandalore the Ultimate",
+      "aliases": "Great Shadow Father",
+      "died": {
+        "date": "3960 BBY",
+        "location": "Mandalore the Ultimate's flagship over Malachor V"
+      },
+      "species": "Taung",
+      "gender": "male",
+      "height": "1.95 meters",
+      "weight": "95 kilograms",
+      "eye color": "yellow",
+      "skin color": "gray",
+      "affiliation": [
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": [
+            "Mandalorian Crusaders",
+            "Mandalorian Neo-Crusaders"
+          ]
+        },
+        "Brotherhood of Sith",
+        "True Sith Empire"
+      ]
+    },
+    {
+      "name": "Canderous Ordo",
+      "aliases": "Mandalore the Preserver",
+      "born": {
+        "location": "Ordo"
+      },
+      "species": "Human",
+      "gender": "male",
+      "hair color": "black",
+      "eye color": "steel gray",
+      "skin color": "fair",
+      "cybernetics": "ability boosters",
+      "affiliation": [
+        "Clan Ordo",
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": [
+            "Mandalorian Crusaders",
+            "Mandalorian Neo-Crusaders"
+          ]
+        },
+        "Exchange",
+        "Galactic Republic",
+        {
+          "organization": "Jedi Order",
+          "subsidiaries": "Lost Jedi"
+        }
+      ]
+    },
+    {
+      "name": "Mandalore the Lesser",
+      "died": {
+        "date": "circa 3653 BBY",
+        "location": "Geonosis"
+      },
+      "species": "Human",
+      "gender": "male",
+      "hair color": "brown",
+      "eye color": "brown",
+      "skin color": "tan",
+      "affiliation": [
+        "Mandalorians",
+        "True Sith Empire"
+      ]
+    },
+    {
+      "name": "Mandalore the Vindicated",
+      "aliases": "Artus Lok",
+      "died": {
+        "date": "between 3636 BBY and 3630 BBY"
+      },
+      "species": "Human",
+      "gender": "male",
+      "hair color": "black",
+      "eye color": "brown",
+      "skin color": "dark",
+      "affiliation": [
+        "Clan Lok",
+        "Mandalorians",
+        "True Sith Empire"
+      ]
+    },
+    {
+      "name": "Shae Vizla",
+      "aliases": [
+        "Torch",
+        "Mandalore the Avenger"
+      ],
+      "born": {
+        "date": "circa 3667 BBY"
+      },
+      "species": "Human",
+      "gender": "female",
+      "height": "just under 1.83 meters",
+      "hair color": "red",
+      "eye color": "hazel",
+      "skin color": "fair",
+      "affiliation": [
+        "Mandalorians",
+        "True Sith Empire",
+        "Yavin Coalition",
+        "Eternal Alliance"
+      ]
+    },
+    {
+      "name": "Mandalore the Binder",
+      "born": {
+        "location": "Harswee"
+      },
+      "gender": "male",
+      "affiliation": "Mandalorians"
+    },
+    {
+      "name": "Mandalore the Hammerborn",
+      "born": {
+        "location": "Kol Atorn"
+      },
+      "affiliation": "Mandalorians"
+    },
+    {
+      "name": "Mandalore the Destroyer",
+      "aliases": "Ranah Teh Naast",
+      "gender": "female",
+      "affiliation": "Mandalorians"
+    },
+    {
+      "name": "Mandalore the Uniter",
+      "aliases": "Aga Awaud",
+      "born": {
+        "location": "Mandalore"
+      },
+      "gender": "male",
+      "affiliation": [
+        "Clan Awaud",
+        "Mandalorians"
+      ]
+    },
+    {
+      "name": "Jaster Mereel",
+      "born": {
+        "location": "Concord Dawn"
+      },
+      "died": {
+        "date": "52 BBY",
+        "location": "Khorda Six"
+      },
+      "species": "Human",
+      "gender": "male",
+      "hair color": "black",
+      "eye color": "brown",
+      "skin color": "tan",
+      "affiliation": {
+        "organization": "Mandalorians",
+        "subsidiaries": [
+          "Journeyman Protectors of Concord Dawn",
+          "True Mandalorians"
+        ]
+      }
+    },
+    {
+      "name": "Tor Vizsla",
+      "born": {
+        "location": "Mandalore"
+      },
+      "died": {
+        "date": "52 BBY",
+        "location": "Corellia"
+      },
+      "species": "Human",
+      "gender": "male",
+      "height":"1.9 meters",
+      "hair color": "black",
+      "eye color": "brown",
+      "skin color": "fair",
+      "affiliation": [
+        "Clan Vizsla",
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": "Death Watch"
+        }
+      ]
+    },
+    {
+      "name": "Jango Fett",
+      "born": {
+        "date": "66 BBY",
+        "location": "Concord Dawn"
+      },
+      "died": {
+        "date": "22 BBY",
+        "location": "Geonosis"
+      },
+      "species": "Human",
+      "gender": "male",
+      "height": "1.83 meters",
+      "weight": "79 kilograms",
+      "hair color": "black",
+      "eye color": "brown",
+      "skin color": "tan",
+      "affiliation": [
+        "Clan Fett",
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": "True Mandalorians"
+        },
+        {
+          "organization": "Galactic Republic",
+          "subsidiaries": "Grand Army of the Republic"
+        },
+        "Confederacy of Independent Systems"
+      ]
+    },
+    {
+      "name": "Pre Vizsla",
+      "born": {
+        "location": "Mandalore"
+      },
+      "died": {
+        "date": "20 BBY",
+        "location": "Mandalore"
+      },
+      "species": "Human",
+      "gender": "male",
+      "height": "1.83 meters",
+      "weight": "80 kilograms",
+      "hair color": "blond",
+      "eye color": "blue",
+      "skin color": "fair",
+      "affiliation": [
+        "Clan Vizsla",
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": "Death Watch"
+        },
+        "Confederacy of Independent Systems",
+        "Shadow Collective"
+      ]
+    },
+    {
+      "name": "Bo-Katan Kryze",
+      "born": {
+        "location": "Mandalore"
+      },
+      "species": "Human",
+      "gender": "female",
+      "height": "1.8 meters",
+      "hair color": "red",
+      "eye color": "light green",
+      "skin color": "fair",
+      "affiliation": [
+        "House Kryze",
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": {
+            "organization": "Death Watch",
+            "subsidiaries":  "Nite Owls"
+          }
+        },
+        "Shadow Collective"
+      ]
+    },
+    {
+      "name": "Spar",
+      "aliases": [
+        "Alpha-02",
+        "Mandalore the Resurrector"
+      ],
+      "born": {
+        "date": "32 BBY",
+        "location": "Kamino"
+      },
+      "died": {
+        "date": "between 4 ABY and 21 ABY",
+        "location": "Extrictarium Nebula"
+      },
+      "species": "Human clone",
+      "gender": "male",
+      "height": "1.83 meters",
+      "weight": "79 kilograms",
+      "hair color": "black",
+      "eye color": "brown",
+      "skin color": "tan",
+      "affiliation": [
+        {
+          "organization": "Galactic Republic",
+          "subsidiaries": {
+            "organization": "Grand Army of the Republic",
+            "subsidiaries": "Advanced Recon Commandos"
+          }
+        },
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": "Mandalorian Protectors"
+        },
+        "Confederacy of Independent Systems"
+      ]
+    },
+    {
+      "name": "Fenn Shysa",
+      "born": {
+        "location": "Mandalore"
+      },
+      "died": {
+        "date": "21 ABY",
+        "location": "Shogun"
+      },
+      "species": "Human",
+      "gender": "male",
+      "hair color": "blond",
+      "eye color": "blue",
+      "skin color": "fair",
+      "affiliation": [
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": {
+            "organization": "Mandalorian Protectors",
+            "subsidiaries": "Resurrector Squadron"
+          }
+        },
+        "Confederacy of Independent Systems",
+        "Alliance to Restore the Republic",
+        "Alliance of Free Planets",
+        "New Republic"
+      ]
+    },
+    {
+      "name": "Boba Fett",
+      "aliases": [
+        "A0050",
+        "Alpha"
+      ],
+      "born": {
+        "date": "32 BBY",
+        "location": "Kamino"
+      },
+      "species": "Human clone",
+      "gender": "male",
+      "height": "1.83 meters",
+      "weight": "79 kilograms",
+      "hair color": "black",
+      "eye color": "brown",
+      "skin color": "tan",
+      "cybernetics": "right leg",
+      "affiliation": [
+        "Confederacy of Independent Systems",
+        "Jabba the Hutt's criminal empire",
+        "Krayt's Claw",
+        {
+          "organization": "Galactic Empire",
+          "subsidiaries": "Restored Empire"
+        },
+        {
+          "organization": "Mandalorians",
+          "subsidiaries": [
+            "Journeyman Protectors of Concord Dawn",
+            "Mandalorian Protectors"
+          ]
+        },
+        "Bounty Hunter's Guild",
+        "Imperial Remnant",
+        "Yuuzhan Vong Empire",
+        "New Republic",
+        "Galactic Federation of Free Alliances",
+        "Jedi Coalition"
+      ]
+    },
+    {
+      "name": "Chernan Ordo",
+      "died": {
+        "date": "127 ABY",
+        "location": "Botajef"
+      },
+      "gender": "male",
+      "affiliation": [
+        "Clan Ordo",
+        "Mandalorians",
+        "Galactic Federation of Free Alliances"
+      ]
+    },
+    {
+      "name": "Yaga Auchs",
+      "species": "Human",
+      "gender": "male",
+      "hair color": "brown",
+      "eye color": "brown",
+      "skin color": "fair",
+      "affiliation": "Mandalorians"
+    }
+  ],
+  "miscellaneous": [
+    {
+      "name": "Oliver Queen",
+      "aliases": [
+        "Ollie",
+        "Kapot",
+        "Kapiushon",
+        "Luchnik",
+        "Hood",
+        "Vigilante",
+        "Starling City Vigilante",
+        "Arrow",
+        "Al Sah-him",
+        "Warith al Ghul",
+        "Ibn al Ghul",
+        "Green Arrow",
+        "Emerald Archer",
+        "Mayor Handsome",
+        "Overwatch",
+        "Inmate 4587",
+        "Flash",
+        "Spectre"
+      ],
+      "born": {
+        "date": "1985",
+        "location": "Starling City"
+      },
+      "died": {
+        "physically": {
+          "date": "2019",
+          "location": "National City on Earth-2"
+        },
+        "spiritually": {
+          "date": "dawn of time"
+        }
+      },
+      "species": "Human",
+      "gender": "male",
+      "height": "1.85 meters",
+      "weight": "82 kilograms",
+      "hair color": "sandy-blond",
+      "eye color": "blue",
+      "skin color": "fair",
+      "affiliation": [
+        "Queen family",
+        "A.R.G.U.S.",
+        "Shadowspire",
+        "Solntsevskaya Bratva",
+        "Talia al Ghul's cult",
+        {
+          "organization": "Team Arrow",
+          "subsidiaries": "Old Team Arrow"
+        },
+        "Queen Consolidated",
+        "League of Assassins",
+        {
+          "organization": "Star City",
+          "subsidiaries": [
+            "Office of the Mayor",
+            "Star City Police Department"
+          ]
+        },
+        "Trinity",
+        "Smoak family",
+        "Team Flash",
+        "Trigger Twins",
+        "Earth-2 Team Arrow",
+        "Paragons",
+        "Justice League"
+      ],
+      "masters": [
+        "Robert Queen",
+        "Yao Fei Gulong",
+        "Slade Wilson",
+        "Shado Gulong",
+        "Amanda Waller",
+        "Tatsu Yamashiro",
+        "Taiana Venediktov",
+        "Anatoly Knyazev",
+        "Talia al Ghul",
+        "Malcolm Merlyn",
+        "Ra's al Ghul",
+        "Esrin Fortuna",
+        "Felicity Smoak",
+        "F. Bingsley",
+        "Mar Novu",
+        "Jim Corrigan"
+      ],
+      "apprentices": [
+        "John Diggle",
+        "Helena Bertinelli",
+        "Roy Harper",
+        "Barry Allen",
+        "Thea Queen",
+        "Laurel Lance",
+        "Curtis Holt",
+        "Evelyn Sharp",
+        "Rene Ramirez",
+        "Rory Regan",
+        "Dinah Drake",
+        "William Clayton",
+        "Emiko Adachi",
+        "Mia Smoak"
+      ]
+    }
+  ]
+}

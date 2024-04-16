@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Chastant Shontz">
+  <meta name="description" content="A library of Star Wars characters that fetches them using the public APIs">
+  <title>Star Wars Characters</title>
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+  <body onload="data()">
+    <header>
+    </header>
+    <article>
+      <div id="hologram">
+        <div id="infoColumns">
+          <div id="leftInfoColumn">
+            <p class="infoCont" id="nameCont">Name:  <span class="info" id="name"></span></p>
+            <p class="infoCont" id="heightCont">Height:  <span class="info" id="height"></span></p>
+            <p class="infoCont" id="massCont">Mass:  <span class="info" id="mass"></span></p>
+            <p class="infoCont" id="hairColorCont">Hair Color:  <span class="info" id="hairColor"></span></p>
+          </div>
+          <div id="rightInfoColumn">
+            <p class="infoCont" id="skinColorCont">Skin Color:  <span class="info" id="skinColor"></span></p>
+            <p class="infoCont" id="eyeColorCont">Eye Color:  <span class="info" id="eyeColor"></span></p>
+            <p class="infoCont" id="birthYearCont">Birth Year:  <span class="info" id="birthYear"></span></p>
+            <p class="infoCont" id="genderCont">Gender:  <span class="info" id="gender"></span></p>
+          </div>
+        </div>
+        <div id="buttonsCont">
+          <button type="button" id="back" onclick="back()">Back</button>
+          <button type="button" id="forward" onclick="forward()">Forward</button>
+        </div>
+      </div>
+    </article>
+    <footer>
+    </footer>
+    <script type="text/javascript" src="page.js"></script>
+  </body>
+</html>
